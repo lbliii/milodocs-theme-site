@@ -1,0 +1,6 @@
+langchain_core
+langchain_pinecone
+langchain_openai
+pinecone_client
+python-dotenv
+functions-framework==3.*
